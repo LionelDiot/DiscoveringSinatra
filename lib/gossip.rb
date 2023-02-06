@@ -19,7 +19,7 @@ class Gossip
     end
     return all_gossip
   end
-  
+
   def self.find(id)
     i = 1
     temp_gossip = Gossip.new("pas d'auteur", "ni de gossip")
