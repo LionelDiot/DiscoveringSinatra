@@ -8,4 +8,5 @@ gem 'rubocop', require: false
 gem 'rubocop-faker'
 gem 'rubocop-rails', require: false
 gem 'rubocop-rspec', require: false
+gem 'shotgun'
 gem 'sinatra'
